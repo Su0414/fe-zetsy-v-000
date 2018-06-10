@@ -6,8 +6,9 @@ h1 {
 		margin: 0 0 5px;
 		font-size: 5em;
 		font-family: 'Baskerville', serif;
-		border-bottom: 1px;
+		border-bottom: 1px solid #ccc;
   	color: rgb(111,127,122);
+
 }
 
 /*////////// Global Styles //////////*/
