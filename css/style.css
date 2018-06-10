@@ -27,7 +27,7 @@ body {
 }
 
 /* Write all remaining styles here */
-img {
+img:hover{
 	border: 5px rgb(152,173,166) solid;
 }
 
