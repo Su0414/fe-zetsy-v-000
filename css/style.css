@@ -27,6 +27,9 @@ body {
 }
 
 /* Write all remaining styles here */
+h1:hover{
+	border: 5px #555 solid;
+}
 
 img{
 	border: 5px rgb(152,173,166) solid;
