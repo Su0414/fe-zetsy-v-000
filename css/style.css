@@ -36,11 +36,11 @@ h2 {
     font-size: 2em;
 }
 
+#press {
+	margin-bottom: 20px
+}
+
 #press img{
 	border: 5px #ccc solid;
   padding: 1px;
-}
-
-#press img:hover{
-	color: rgb(152,173,166) solid;
 }
