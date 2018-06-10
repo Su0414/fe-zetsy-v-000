@@ -27,7 +27,7 @@ body {
 }
 
 /* Write all remaining styles here */
-img:hover{
+img{
 	border: 5px rgb(152,173,166) solid;
 }
 
@@ -36,7 +36,7 @@ h2 {
     font-size: 2em;
 }
 
-#press img{
+#press img:hover{
 	border: 5px #ccc solid;
   padding: 1px;
 }
